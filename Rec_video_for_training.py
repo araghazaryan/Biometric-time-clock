@@ -77,10 +77,10 @@ OrderOptions = ['Please follow the instructions while recording',
            'GRIN :(',
            'GRIN :(',
            'GRIN :(',
-           'Please say \"Yeelow Fox\"',
-           'Please say \"Yeelow Fox\"',
-           'Please say \"Yeelow Fox\"',
-           'Please say \"Yeelow Fox\"',
+           'Please say \"The quick brown fox jumps over the lazy dog\"',
+           'Please say \"The quick brown fox jumps over the lazy dog\"',
+           'Please say \"The quick brown fox jumps over the lazy dog\"',
+           'Please say \"The quick brown fox jumps over the lazy dog\"',
 ]
 rectime = len(OrderOptions)
 text = OrderOptions[0]
