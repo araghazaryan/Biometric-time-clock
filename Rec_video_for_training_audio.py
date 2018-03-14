@@ -83,19 +83,7 @@ OrderOptions = ['PlEASE PREPARE!!', 5,0, # 5
            'We are done, thank you!', 5, 0] #3
 
 # duration of each of audio command
-AudPhraseDur = [5,
-                3.8,
-                2,
-                2.7,
-                2.3,
-                2.5,
-                1.8,
-                3.6,
-                2.7,
-                3,
-                2,
-                3.6,
-                3.2]
+AudPhraseDur = [5, 3.8, 2, 2.7, 2.3, 2.5, 1.8, 3.6, 2.7, 3, 2, 3.6, 3.2]
 
 numem = int(len(OrderOptions)/3)
 
